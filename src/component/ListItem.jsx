@@ -30,7 +30,3 @@ const todoItem = {
     justifyContent: "space-between",
     margin: "0.5rem 0"
 }
-
-const contoh = {
-    bg:"ok"
-}
